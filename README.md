@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Danny I am trying to learn how to use Git and help to contribute mainly to Python projects while doing so.
 <!--
 **dannykogan3/dannykogan3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
